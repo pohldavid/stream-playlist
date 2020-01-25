@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:0,740 KTRH 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=300
+https://c1icy.prod.playlists.ihrhls.com/2285_icy
+#EXTINF:0,570 KLIF
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=300
+http://playerservices.streamtheworld.com/api/livestream-redirect/KLIFAM.mp3
+#EXTINF:0,99.5 The Wolf
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=300
+http://19803.live.streamtheworld.com:80/KPLXFMAAC_SC
+#EXTINF:0,1390 KULP
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=300
+http://crystalout.surfernetwork.com:8001/KULP-AM_MP3
+#EXTINF:0,660 KSKY The Answer
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=300
+http://17683.live.streamtheworld.com:80/KSKYAM_SC
+#EXTINF:0,90.1 KERA
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=300
+http://kera-ice.streamguys.us:80/keralive
+#EXTINF:0,96.3 KSCS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=300
+http://14643.live.streamtheworld.com:80/KSCSFMAAC_SC
+#EXTINF:0,820 WBAP
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=300
+http://16143.live.streamtheworld.com:3690/WBAPAM_SC
